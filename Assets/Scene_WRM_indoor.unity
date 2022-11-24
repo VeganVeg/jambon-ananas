@@ -430,7 +430,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390955750}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 5.94, z: 0}
   m_LocalScale: {x: 1.7142, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -458,12 +458,12 @@ PrefabInstance:
     - target: {fileID: 1662168905946115566, guid: 9a5b5f01f8d2a9244b542f839b935a12,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 1.19
       objectReference: {fileID: 0}
     - target: {fileID: 1662168905946115566, guid: 9a5b5f01f8d2a9244b542f839b935a12,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -6.19
       objectReference: {fileID: 0}
     - target: {fileID: 1662168905946115566, guid: 9a5b5f01f8d2a9244b542f839b935a12,
         type: 3}
@@ -504,6 +504,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: XR Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6729739480200796581, guid: 9a5b5f01f8d2a9244b542f839b935a12,
+        type: 3}
+      propertyPath: m_PositionInput.m_Action.m_Id
+      value: 28caed5c-3bae-438f-8e3d-03e546dce800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6729739480200796581, guid: 9a5b5f01f8d2a9244b542f839b935a12,
+        type: 3}
+      propertyPath: m_RotationInput.m_Action.m_Id
+      value: 569ae41e-4410-4c39-a198-c154baaea103
+      objectReference: {fileID: 0}
+    - target: {fileID: 6729739480200796581, guid: 9a5b5f01f8d2a9244b542f839b935a12,
+        type: 3}
+      propertyPath: m_PositionInput.m_Action.m_SingletonActionBindings.Array.data[0].m_Id
+      value: e0bbc112-0bc0-4791-8af4-7a9726820832
+      objectReference: {fileID: 0}
+    - target: {fileID: 6729739480200796581, guid: 9a5b5f01f8d2a9244b542f839b935a12,
+        type: 3}
+      propertyPath: m_RotationInput.m_Action.m_SingletonActionBindings.Array.data[0].m_Id
+      value: e9be30d0-35db-46d6-a202-9dabc227a86c
       objectReference: {fileID: 0}
     - target: {fileID: 6729739480851205815, guid: 9a5b5f01f8d2a9244b542f839b935a12,
         type: 3}
