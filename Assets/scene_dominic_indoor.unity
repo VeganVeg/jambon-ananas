@@ -206,6 +206,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: bar
       objectReference: {fileID: 0}
+    - target: {fileID: 2929640277652407947, guid: a076744aeb7e5694d8a615dced4dd5fd,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d196689fd20ea15408f0797f2f79cd4e, type: 2}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: a076744aeb7e5694d8a615dced4dd5fd, type: 3}
@@ -4839,6 +4844,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9a3fad0d3ae055e4bb37fcd2855b8666,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 120f16268f57944439f1efcd65afd653, type: 2}
     - target: {fileID: 919132149155446097, guid: 9a3fad0d3ae055e4bb37fcd2855b8666,
         type: 3}
       propertyPath: m_Name
@@ -5738,6 +5748,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bf6c6f3b88a165d418400aa78638ba6a,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 03d937a3187aeae4c8a956a054ac9989, type: 2}
     - target: {fileID: 919132149155446097, guid: bf6c6f3b88a165d418400aa78638ba6a,
         type: 3}
       propertyPath: m_Name
@@ -9947,6 +9962,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: plancher (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5579080825611569858, guid: b90b86a62fc43ac4eabe4187b2278e39,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5579080825611569870, guid: b90b86a62fc43ac4eabe4187b2278e39,
         type: 3}
