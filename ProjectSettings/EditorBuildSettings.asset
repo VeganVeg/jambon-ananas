@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/scene_ecran_titre.unity
+    guid: b9859301b90f1e04ebce1e6a969a81c7
+  - enabled: 1
+    path: Assets/scene_dominic_indoor.unity
+    guid: 43161ed94364f0244bc14b494857fc4c
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7f7706d2b329c3e47bbcc98f7ce2ceb2,
       type: 2}
