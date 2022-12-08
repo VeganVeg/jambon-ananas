@@ -86,7 +86,7 @@ PrefabInstance:
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
       propertyPath: DopplerLevel
-      value: 2.72
+      value: 2.38
       objectReference: {fileID: 0}
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
@@ -96,7 +96,7 @@ PrefabInstance:
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
       propertyPath: spreadCustomCurve.m_Curve.Array.data[0].time
-      value: 0.056856155
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
@@ -131,7 +131,7 @@ PrefabInstance:
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
       propertyPath: spreadCustomCurve.m_Curve.Array.data[0].value
-      value: 0.29103088
+      value: 0.083333336
       objectReference: {fileID: 0}
     - target: {fileID: 3720643627522000278, guid: df072743a894a9f4aafcd8338e2f5ac2,
         type: 3}
