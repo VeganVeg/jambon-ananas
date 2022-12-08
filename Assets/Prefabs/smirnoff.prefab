@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5259104800984795667}
   - component: {fileID: 5259104800984795665}
   - component: {fileID: 5259104800984795664}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: smirnoff
   m_TagString: Untagged
   m_Icon: {fileID: 0}

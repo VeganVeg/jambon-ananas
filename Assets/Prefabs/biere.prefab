@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4698886282806732550}
   - component: {fileID: 4698886282806732551}
   - component: {fileID: 4698886282806732549}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: biere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
